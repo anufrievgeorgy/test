@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 console.log("Js Run..")
 
 console.log("Js Build..")
