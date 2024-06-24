@@ -1,1 +1,1 @@
-console.log("generate...")
+console.log("generate...");
